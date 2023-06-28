@@ -14,7 +14,7 @@ class WebScraper:
         self.chat_id = 'CHAT ID'
         self.url_API = 'http://api.mxvinvest.com:63000/blaze-crash'
         self.gales = 2
-        self.link = '[Clique aqui!](blaze.com/r/0aJYR6)'
+        self.link = '[Clique aqui!](blaze.com/r/gXrYja)'
         
         
         # MAYBE EDIT!
